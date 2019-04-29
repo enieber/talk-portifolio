@@ -1,11 +1,11 @@
 # Talk sobre Portifolio
 
-Este projeto são slides feitos usando mdx e decker.
+Este projeto são slides feitos usando [mdx](https://mdxjs.com/) e [decker](https://github.com/jxnblk/mdx-deck).
 
 ## Pre Requisitos
 
-- node
-- npm
+- [node](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
 
 ## Para usar
 
